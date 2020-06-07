@@ -1,0 +1,150 @@
+body {
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625em;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #d291bc;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #d291bc;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none none;
+  border-color: #127681;
+  border-width: 5px;
+  margin: 40px auto;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+  .btn {
+    text-decoration: none;
+    backface-visibility: hidden;
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  background:#66BFBF;
+  border-radius: 5px;
+  border: 0px solid #66BFBF;
+  border-width: 0px 0px 0px 0px;
+  padding: 10px 20px 10px 20px;
+  box-shadow: inset 0px 1px 0px rgba(255,255,255,1),0px 1px 3px rgba(0,0,0,0.3);
+    color:  #dae1e7;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  text-shadow: 0px -1px 0px rgba(0,0,0,0.4)
+  }
+  .btn > div {
+    color #66BFBF;
+  font-size: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: initial;
+  font-style: normal;
+  text-align: center;
+  margin: 0px 0px 0px 0px
+  }
+  .btn > i {
+    font-size: 1em;
+  border-radius: 0px;
+  border: 0px solid transparent;
+  border-width: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
+  position: static
+  }
+  .btn > .ld {
+    font-size: initial
+  }
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.morocha {
+  width: 25%;
+  float: left;
+  margin-bottom: 100px;
+  margin-right: 50px;
+}
+
+.paulita {
+  margin-top: 5%;
+}
+
+.peliroja {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
+
+.parrafo-intro {
+  width: 25%;
+  margin: auto;
+}
+
+.parrafo-skills {
+  width: 35%;
+  margin: auto;
+}
+
+#titulo-int-em {
+  text-align: center;
+}
+
+.🙏🏻 {
+  text-align: center;
+}
+
+#titulo-instructora {
+  margin: 50px auto;
+  text-align: center;
+}
